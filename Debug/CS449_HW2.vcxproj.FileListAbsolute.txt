@@ -1,0 +1,2 @@
+C:\Users\miste\source\repos\CS449_HW2\Debug\CS449_HW2.exe
+C:\Users\miste\source\repos\CS449_HW2\Debug\CS449_HW2.pdb
